@@ -8,3 +8,12 @@
 DanielHurtado-040801/DanielHurtado-040801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Technical Skills: 
+- Python (Flask - Django)
+- Java SE (Spring Boot)
+- HTML y CSS
+- Scrum
+- Github y Bitbucket
+- SQL
